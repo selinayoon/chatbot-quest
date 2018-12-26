@@ -1,6 +1,6 @@
 # SSAFY Start Camp 챗봇 퀘스트
 
-광주_1반_ 윤은솔,https://github.com/selinayoon/[chatbot-quest](https://github.com/selinayoon/chatbot-quest)
+광주_1반_ 윤은솔,https://github.com/selinayoon/chatbot-quest
 
 ## I. 스펙(Specification)
 
